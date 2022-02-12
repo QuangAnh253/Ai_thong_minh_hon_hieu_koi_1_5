@@ -3,7 +3,6 @@
   "glyphOperations": 0,
   "interpreter": 0,
   "pointRounding": 0,
-  "applyKerning": 0,
   "fontName": "Times New Roman",
   "styleName": "Regular",
   "size": 12.0,

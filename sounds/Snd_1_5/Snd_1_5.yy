@@ -1,5 +1,4 @@
 {
-  "conversionMode": 0,
   "compression": 1,
   "volume": 0.6,
   "preload": false,
